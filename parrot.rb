@@ -1,3 +1,3 @@
 def parrot(noise="Squawk!")
-	print "#{noise}"
+	puts "#{noise}"
 end
